@@ -2,7 +2,7 @@
 A console based executable that patches .szs files into the "July Special Disc 2002" Super Mario Sunshine demo.
 
 # **IMPORTANT/DISCLAIMER**:
-AS THIS PROGRAM DEALS WITH DATA MANIPULATION, IT IS RECOMMENED TO KEEP BACKUPS OF "zz_marioTaiken5.tgc" AND ANY ".szs" FILE YOU MAY USE WITH THE PROGRAM. WHILE THERE ARE MANY STEPS IN PLACE FOR "szsDemoPatch" TO ONLY MANIPULATE THE DATA OF "zz_marioTaiken5.tgc", IT IS THE SOLE RESPONSIBILITY OF THE USER IF AN UNINTENDED FILE OR FILES BECOMES CORRUPT AS A RESULT OF USING THIS PROGRAM! I(AngryMax), WILL NOT BE HELD RESPONSIBLE IF ANY SUCH CASE APPEARS.
+**AS THIS PROGRAM DEALS WITH DATA MANIPULATION, IT IS RECOMMENED TO KEEP BACKUPS OF "zz_marioTaiken5.tgc" AND ANY ".szs" FILE YOU MAY USE WITH THE PROGRAM. WHILE THERE ARE MANY STEPS IN PLACE FOR "szsDemoPatch" TO ONLY MANIPULATE THE DATA OF "zz_marioTaiken5.tgc", IT IS THE SOLE RESPONSIBILITY OF THE USER IF AN UNINTENDED FILE OR FILES BECOMES CORRUPT AS A RESULT OF USING THIS PROGRAM! I(AngryMax), WILL NOT BE HELD RESPONSIBLE IF ANY SUCH CASE APPEARS.**
 
 # **Build Instructions:**
 Open szsDemoPatch.sln in Visual Studio 2019, then build with Solution Configuration set to "Release," and Solution Platform set to "x86." The Windows SDK Version used was "10.0," and the C++ Language Standard is "ISO C++ 14 Standard." I'm not good with build instructions, I hope that's enough/not too much information ¯\_(ツ)_/¯
