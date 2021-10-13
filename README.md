@@ -21,7 +21,8 @@ Open szsDemoPatch.sln in Visual Studio 2019, then build with Solution Configurat
 **"level name"** - The level you want SMS to think is patched in. 99% of the time you'll probably just make this the name of the szs you're patching in(Ex: "sirena0.szs" It's important to always add ".szs" at the end)
 
 # **Demo Level Arguments:**
-**These are the arguments you can use for the "patched level" argument** 
+**These are the arguments you can use for the "patched level" argument:**
+
 "bianco0", "bianco0.szs", "b0" | "bianco1", "bianco1.szs", "b1" | "biancoBoss", "biancoBoss.szs", "bb" | "coro_ex1", "coro_ex1.szs", "ce1" | "mamma1", "mamma1.szs", "m1" |
 "mamma2", "mamma2.szs", "m2" | "ricco0", "ricco0.szs", "r0" | "ricco8", "ricco8.szs", "r8"
 
