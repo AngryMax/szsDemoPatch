@@ -26,6 +26,4 @@ Open szsDemoPatch.sln in Visual Studio 2019, then build with Solution Configurat
 "bianco0", "bianco0.szs", "b0" | "bianco1", "bianco1.szs", "b1" | "biancoBoss", "biancoBoss.szs", "bb" | "coro_ex1", "coro_ex1.szs", "ce1" | "mamma1", "mamma1.szs", "m1" |
 "mamma2", "mamma2.szs", "m2" | "ricco0", "ricco0.szs", "r0" | "ricco8", "ricco8.szs", "r8"
 
-If you want to paste an szs file over "option", then I reccomend you do it manually. A document detailing how to patch "zz_marioTaiken5.tgc" manually will be linked as soon as I make it
-
  Important note: If you enter an argument that doesn't exist, the program will just default to patched over bianco0.szs. Prob not good design lmao.
